@@ -1,19 +1,23 @@
 # Chirper Project
 
-This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
+[React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019) Twitter clone app.
 
-Most of the commits in this repository correspond to videos in the program.
+The app was used to further explain state management with redux.
 
-## Project Setup
 
-* clone the Project - `git@github.com:udacity/reactnd-chirper-app.git`
-* install the dependencies - `npm install`
+## Installation
 
-## Contributing
+Step 1: Clone this project git clone https://github.com/AdoraNwodo/chirper.git
 
-Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
+Step 2: Install all project dependencies (via npm) npm install
 
-If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
+Step 3: Start the development server npm start
+
+
+## Credits
+
+Udacity React Nanodegree ❤️❤️
+
 
 ## License
 
